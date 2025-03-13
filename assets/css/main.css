@@ -1956,6 +1956,9 @@ section,
     display: block;
   }
   
+  .img-footer{
+    
+  }
 
 }
 
@@ -1971,7 +1974,7 @@ section,
 
 .img-footer{
   width: 70%;
-  margin-left: 55%;
+  margin-left: 20%;
 }
 
 .fundo-services{

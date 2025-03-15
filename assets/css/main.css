@@ -1933,12 +1933,13 @@ section,
 
   .plano-recomend{
     background-color: #004aad;
-    margin-bottom: 1%;
+    margin-top: 3% !important;
     color: #f1f7fc;
     width: 100%;
     padding: 6px 6px;
     margin-left: 0%;
     margin-bottom: 0%;  
+    
     
   }
 
@@ -1948,16 +1949,16 @@ section,
 
   }
 
-  #galerry{
-    overflow: hidden;
-  }
-
   .legendas{
     display: block;
   }
-  
-  .img-footer{
-    
+
+  .img-logo{
+    width: 20% !important;
+  }
+
+  .espaco{
+    margin-bottom: 15%;
   }
 
 }
@@ -2005,5 +2006,5 @@ table{
 }
 
 .tabelas{
-  margin-top: 5%;
+  margin-top: 8%;
 }
